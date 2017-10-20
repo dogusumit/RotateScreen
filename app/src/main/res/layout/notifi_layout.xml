@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/gri">
+
+    <ImageButton
+        android:id="@+id/notif_but_0"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:adjustViewBounds="true"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/desc0"
+        android:scaleType="center"
+        android:src="@mipmap/otomatik" />
+
+    <ImageButton
+        android:id="@+id/notif_but_1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:adjustViewBounds="true"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/desc1"
+        android:scaleType="center"
+        android:src="@mipmap/telefon" />
+
+    <ImageButton
+        android:id="@+id/notif_but_2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:adjustViewBounds="true"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/desc2"
+        android:rotation="180"
+        android:scaleType="center"
+        android:src="@mipmap/telefon" />
+
+    <ImageButton
+        android:id="@+id/notif_but_3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:adjustViewBounds="true"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/desc3"
+        android:rotation="270"
+        android:scaleType="center"
+        android:src="@mipmap/telefon" />
+
+    <ImageButton
+        android:id="@+id/notif_but_4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:adjustViewBounds="true"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/desc4"
+        android:rotation="90"
+        android:scaleType="center"
+        android:src="@mipmap/telefon" />
+
+    <ImageButton
+        android:id="@+id/notif_but_5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:adjustViewBounds="true"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/desc5"
+        android:scaleType="center"
+        android:src="@mipmap/kilitle" />
+</LinearLayout>

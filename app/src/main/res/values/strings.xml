@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rotate Screen</string>
+    <string name="oyla">Rate App</string>
+    <string name="market">My Other Apps</string>
+    <string name="play_store_id">dogusumit</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/7028314496</string>
+    <string-array name="spin_items">
+        <item>Automatic</item>
+        <item>Portrait</item>
+        <item>Reverse Portrait</item>
+        <item>Landscape</item>
+        <item>Reverse Landscape</item>
+    </string-array>
+    <string name="str1">Lock Orientation</string>
+    <string name="str2">If the orientation is locked, other apps can\'t change the orientation. For example: Youtube fullscreen video want change it to landscape</string>
+    <string name="str3">Show on Notificaiton Panel</string>
+    <string name="str4">This app have a widget. If you want to add widget:\nGo to homescreen and hold down your finger on empty space, select widgets and slide the screen until find it</string>
+    <string name="desc0">Automatic</string>
+    <string name="desc1">Portrait</string>
+    <string name="desc2">Reverse Portrait</string>
+    <string name="desc3">Landscape</string>
+    <string name="desc4">Reverse Landscape</string>
+    <string name="desc5">Locked</string>
+    <string name="jellybean">Sorry , customized notification isn\'t supported in versions earlier than Android 4.1(Jelly Bean) :(</string>
+    <string name="str5">Touch for change rotation.</string>
+</resources>

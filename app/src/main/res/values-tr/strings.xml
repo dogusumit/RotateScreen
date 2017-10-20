@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ekran Döndürme</string>
+    <string name="oyla">Uygulamayı Oyla</string>
+    <string name="market">Diğer Uygulamalarım</string>
+    <string name="play_store_id">dogusumit</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/7028314496</string>
+    <string-array name="spin_items">
+        <item>Otomatik</item>
+        <item>Dikey</item>
+        <item>Ters Dikey</item>
+        <item>Yatay</item>
+        <item>Ters Yatay</item>
+    </string-array>
+    <string name="str1">Yönü Kilitle</string>
+    <string name="str2">Yön kilitlendiği zaman diğer uygulamalar yönü değiştiremez. Örneğin: Youtube tam ekran video açarken ekranı yatay yapmak ister</string>
+    <string name="str3">Bildirim Alanında Göster</string>
+    <string name="str4">Uygulamanın Widget\'ı vardır, eklemek isterseniz: ana ekrana dönün, boş bir yere basılı tutun, Widgetlar\'a tıklayın ve Ekran Döndürmeyi bulana kadar ekranı kaydırın</string>
+    <string name="desc0">Otomatik</string>
+    <string name="desc1">Dikey</string>
+    <string name="desc2">Ters Dikey</string>
+    <string name="desc3">Yatay</string>
+    <string name="desc4">Ters Yatay</string>
+    <string name="desc5">Kilitli</string>
+    <string name="jellybean">Üzgünüm, Android 4.1(Jelly Bean)  \'den önceki sürümlerde butonsuz bildirim yapmak zorundaydım :(</string>
+    <string name="str5">Yönü değiştirmek dokunun.</string>
+</resources>
