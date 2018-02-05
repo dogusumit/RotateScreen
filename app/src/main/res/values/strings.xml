@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Rotate Screen</string>
+    <string name="app_name">Rotate Screen 2</string>
     <string name="oyla">Rate App</string>
     <string name="market">My Other Apps</string>
     <string name="play_store_id">dogusumit</string>
-    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/7028314496</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/4659802496</string>
     <string-array name="spin_items">
         <item>Automatic</item>
         <item>Portrait</item>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Ekran Döndürme</string>
+    <string name="app_name">Ekran Döndürme 2</string>
     <string name="oyla">Uygulamayı Oyla</string>
     <string name="market">Diğer Uygulamalarım</string>
     <string name="play_store_id">dogusumit</string>
-    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/7028314496</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4322301902835072/4659802496</string>
     <string-array name="spin_items">
         <item>Otomatik</item>
         <item>Dikey</item>
